@@ -1,0 +1,19 @@
+{
+  "name": "listnr",
+  "version": "1.0.0",
+  "description": "Internship Assignment",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.4",
+    "express-useragent": "^1.0.15",
+    "mongoose": "^5.12.12"
+  }
+}
