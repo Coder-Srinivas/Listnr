@@ -33,7 +33,7 @@ const track = async (req, res) => {
         }else{
             res.send({
                 success: false,
-                message: "Track added successfully. But redirection is not possible as the browser is not supported"
+                message: "URL added successfully. But redirection is not possible as the browser is not supported"
             });
         }
     }catch(error){
