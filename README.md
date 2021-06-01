@@ -39,4 +39,6 @@ Run the following command to get ngrok to run on port 8000
 ngrok http 8000
 ```
 
+After successfully completing the above steps, use the url given by ngrok as shown in the below image.
+![Ngrok IP](https://github.com/Coder-Srinivas/Listnr/blob/master/ngrok.png)
 
